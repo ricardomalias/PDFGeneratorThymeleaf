@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+   <fontFamily name="Gotham Book">
+       <normal><![CDATA[jasper/fonts/Gotham-Book.ttf]]></normal>
+       <bold><![CDATA[jasper/fonts/Gotham-Bold.ttf]]></bold>
+       <italic><![CDATA[jasper/fonts/Gotham-BookItalic.ttf]]></italic>
+       <boldItalic><![CDATA[jasper/fonts/Gotham-BoldItalic.ttf]]></boldItalic>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+</fontFamilies>

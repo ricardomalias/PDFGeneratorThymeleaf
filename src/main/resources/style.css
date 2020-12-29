@@ -1,0 +1,10 @@
+
+@page land { size: A4 landscape; orientation: landscape; margin: 0.1cm; }
+@page port { size: A4 portrait; }
+
+.landscapePage { page:land; }
+.portraitPage { page:port; }
+
+.red {
+    color: #ff00ff;
+}
